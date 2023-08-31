@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/278sl3CzPeDxyZWnSGW7hrcgB1O7/9e6IZg6F9DJMmSFTF6ZNPD0rJGa9SdqSdeKGDamzcLSck9HvhRWB0zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\CafeteriaControllerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allpi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\allpi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

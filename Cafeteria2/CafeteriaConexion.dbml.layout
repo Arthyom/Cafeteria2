@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CafeteriaConexion">
+  <DataContextMoniker Name="/CafeteriaConexionDataContext" />
+  <nestedChildShapes>
+    <classShape Id="826c69c2-d35a-44a0-8af9-d392e3b93e3d" absoluteBounds="0.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/CafeteriaConexionDataContext/Bebidas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c0b45d7-1a42-4423-91fe-fe7d14badd50" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2dcaf5c7-cfea-4e1a-a2dc-d494f099f8c6" absoluteBounds="3.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/CafeteriaConexionDataContext/Postres" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a03599c0-1538-42ec-afe4-cb2ee9f34581" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c376ba88-21a6-46bc-8fb8-36a83d7e050d" absoluteBounds="0.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CafeteriaConexionDataContext/Empleados" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba3c67e9-007e-45c8-88d9-a0ad66c9c2fb" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de4ac144-0f11-448c-ac30-8517bd5c2a7e" absoluteBounds="3.75, 3.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CafeteriaConexionDataContext/Imagenes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4383b096-04a1-4655-a09c-004f58db1295" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="82cb4d8e-289d-4ca4-aaa4-dbde21ee9e01" absoluteBounds="6.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/CafeteriaConexionDataContext/Platillos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3da00b6-277c-4d4d-8454-e1b37b3e06f6" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

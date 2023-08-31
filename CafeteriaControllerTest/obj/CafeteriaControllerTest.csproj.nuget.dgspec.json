@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\CafeteriaControllerTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\Cafeteria2\\Cafeteria2.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\Cafeteria2\\Cafeteria2.csproj",
+        "projectName": "Cafeteria2",
+        "projectPath": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\Cafeteria2\\Cafeteria2.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\CafeteriaControllerTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\CafeteriaControllerTest.csproj",
+        "projectName": "CafeteriaControllerTest",
+        "projectPath": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\CafeteriaControllerTest.csproj",
+        "packagesPath": "C:\\Users\\allpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\CafeteriaControllerTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\allpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\Cafeteria2\\Cafeteria2.csproj": {
+                "projectPath": "C:\\Users\\allpi\\source\\repos\\Cafeteria2\\Cafeteria2\\Cafeteria2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
